@@ -1,0 +1,2 @@
+# langualatina
+Prosty parser łaciny
